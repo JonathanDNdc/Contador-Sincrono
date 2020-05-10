@@ -1,4 +1,4 @@
-# Práctica 4
+# Contador Sincrono
 
 ## Codigo
 En este repositorio se encuentran dos archivos en los cuales se describen componentes en VHDL y sus respectivos testbenchs.
